@@ -1,0 +1,224 @@
+Evaluator: Daniela Pock (Persona: Mag. Annemarie Müller)
+Alter: 23 (Persona: 38)
+Geschlecht: weiblich
+Gerät: HP Pavilion x360 Convertible 14-dw0xxx (ohne Touch evaluiert)
+Betriebssystem und Version: Windows 10 Home
+Webbrowser und Version: Firefox 88.0 (64 Bit)
+Ad Blocker: keiner
+Internetverbindung Typ: Simply TV - LTE
+Internetverbindung Download Geschwindigkeit: 20 mbps
+Bildschirmgröße: 14″
+Bildschirmauflösung: 1280×1024
+Browserauflösung: 1280×1024
+Datum der Evaluierung: 2021-04-28
+Uhrzeit der Evaluierung: 10:00-11:30 Uhr
+
+
+Positive Beobachtungen
+----------------------
+
+P1: Design
+  schnelles, interaktives, minimalistisches Design
+
+  Video: p1-dp-design.mp4
+	
+  Heuristik: A08 Ästhetik und minimales Design
+	
+  Wie reproduzierbar: Startseite -> Hover über die oberen Reiter -> karriere
+
+
+P2: schöne Breadcrumbs unter der Übersicht
+	
+  Screenshots: p2-dp-breadcrumbs.png
+	
+  Heurisitk: A07 Flexibilität und Effizienz
+	
+  Wie reproduzierbar: /hochschule/karriere/
+
+
+P3: Werbung
+  Keine Werbung, auch ohne Adblocker
+	
+  Screenshots: p3-dp-werbung.png
+	
+  Heurisitk: A08 Minimalistisches Design
+
+  Wie reproduzierbar: Jede Seite
+
+
+P4: gute Filteroptionen
+
+  Gute Filteroptionen bei Studien, Jobs, Events
+
+  Screenshot(s): p4-dp-filter-karriere.png
+                 p4-dp-filter-studium.png
+
+  Heuristik:  A02 Sprache des Benutzers verwenden
+
+  Wie reproduzierbar: /hochschule/karriere/ runterscrollen
+                      /studium/
+	
+
+P5: Daten in Bewerbungsformular bleiben bei noch leeren Feldern erhalten
+
+  Wenn man im Bewerbungsformular Felder frei lässt, die ausgefüllt werden müssen,
+  bleiben die bereits eingefügten Daten erhalten, wenn man auf absenden drückt.
+ 
+  Screenshot(s): p5-dp-formular.png
+                 p5-dp-formular-2.png
+
+  Heuristik:  A07 Flexibilität und Effizienz
+
+  Wie reproduzierbar:  Was ins Formular eingeben, * Felder freilassen, absenden drücken
+
+
+P6: gute Fehlermeldungen im Bewerbungsformular
+
+  Wenn die Dokumente zu groß sind, wird der Nutzer darauf aufmerksam gemacht.
+  Wenn die Dokumente, das falsche Dateiformat haben, wird der Nutzer darauf aufmerksam gemacht.
+
+  Video clip: p6-dp-fehlermeldung-formular.mp4 
+
+  Heuristik:  A09 Gute Fehlermeldungen
+
+  Wie reproduzierbar:  siehe Video
+
+
+Probleme
+--------
+
+N1: verwirrende englische Begriffe z.B. Topics, Career Center
+
+  Manche Begriffe sind entwas verwirrend gewählt. Z.B. Topics für die Anzeige
+  von allen Studiengängen. Oder das CareerCenter für Studenten und die Karriere zur Jobsuche 
+  kann man leicht verwechseln.
+  Was ist eine FMA-Hotline?
+
+  Screenshot(s):  n1-dp-fma.png
+                  n1-dp-topics.png
+
+  Heuristik:  A02 Sprache des Benutzers verwenden
+
+  Wie reproduzierbar:  Hover über Studium
+                       hochschule/services/fma-hotline/
+
+
+N2: viel Whitespace
+
+  Der Whitespace ist teilweise sehr groß, wodurch die Seite eher leer wirkt.
+  z.B. bei Karriere
+
+  Screenshot(s): n2-dp-whitespace.png
+
+  Heuristik:  A08 Ästhetik und minimales Design
+
+  Wie reproduzierbar: /hochschule/karriere/
+
+
+N3: schwieriges Navigieren bei Karriere
+
+  Wenn man auf einen Unterpunkt bei Karriere klickt,
+  dann muss man den Zurück-Button verwenden, um auf die 
+  letzte Seite zu kommen.
+  Kein leichtes navigieren zwischen den einzelnen Reitern von Karriere.
+
+  Video clip:     n3-dp-schwieriges-navigieren.mp4
+
+  Heuristik:  A03 Umkehrbare Aktionen
+
+  Wie reproduzierbar: /hochschule/karriere/
+
+
+N4: Kein durchgängiges Design bei Filtern
+
+  Die Filter bei den Studiengängen sehen anders aus als die Filter
+  bei der Suche oder bei der Karriere.
+
+  Screenshot(s): n4-dp-filter-karriere.png
+                 n4-dp-filter-studium.png
+
+  Heuristik:  A04 Konsistenz
+
+  Wie reproduzierbar:  /hochschule/karriere/
+                       /studium/
+
+
+N5: Sortierung der Suchergebnisse
+
+  Die Suchergebnisse werden nach den aktuellsten Veröffentlichungen sortiert.
+  Besser wäre es die Suchergebnisse nach dem relevantesten Ergebnis zu sortieren
+  z.B. wenn man nach Jobs sucht, sollte der Karriere-Link der erste sein und nicht
+  ein Artikel zu einer Person, die jetzt sein 25 Jahre bei der FH arbeitet.
+
+  Screenshot(s):  n5-dp-suchergebnisse.png
+
+  Heuristik:  A07 Flexibilität und Effizienz
+
+  Wie reproduzierbar:  Suche -> "Jobs" eingeben -> Enter drücken 
+
+
+N6: Button Online-Bewerbung unter Hochschule
+
+  Der Button Online-Bewerbung unter Hochschule ist sehr verwirrend.
+  Er könnte bedeuten, dass man sich dort für Jobs bewerben kann oder
+  das man sich als StudierendeR bewerben kann. 
+  Er führt zur Online-Bewerbung für Studierende.
+
+  Screenshot(s): n6-dp-button-online-bewerbung.png
+
+  Heuristik:  A02 Sprache des Benutzers verwenden
+
+  Wie reproduzierbar: Hover über Hochschule
+
+
+N7: verschiedene Hochladungsmöglichkeiten im Bewerbungsformular
+
+  Im Bewerbungsformular muss man bei Bewerbungsschreiben und Lebenslauf auf den
+  Button Durchsuchen drücken und bei Zeugnisse und Publikationen kann man aber einfach
+  die Dateien hinziehen und sie werden hochgeladen.
+
+  Screenshot(s): n7-dp-bewerbung-hochladen.png
+
+  Heuristik:  A04 Konsistenz
+
+  Wie reproduzierbar:  https://forms.fh-joanneum.at/jobs/bewerbung/?kn=714-21-001
+
+
+N8: Breadcrumbs ohne Links
+
+  Die Breadcrumbs sind teilweise ohne Links/falsch verlinkt.
+
+  Video clip: n7-dp-breadcrumbs.mp4
+
+  Heuristik:  A07 Flexibilität und Effizienz
+
+  Wie reproduzierbar:  /hochschule/karriere/
+
+
+N9: Erstes Laden von Seiten mit Hintergrundbild - Hintergrundbild braucht etwas länger
+
+  Beim ersten Laden von manchen Seiten braucht das Hintergrundbild etwas länger als
+  der Rest der Seite.
+  Es lädt dann langsam nach.
+
+  Video clip: n9-dp-ladezeit.mp4 
+
+  Heuristik:  A08 Ästhetik und minimales Design
+  
+  Wie reproduzierbar: /blog/
+
+
+N10: keine Erklärung des * im Bewerbungsformular
+
+  Im Bewerbungsformular kommt die Erklärung, dass Felder mit * markiert,
+  ausgefüllt werden müssen, erst wenn man auf absenden klickt und ein solches
+  Feld frei gelassen hat.
+
+  Screenshot(s): n8-dp-formular.png
+                 n8-dp-fomular-2.png
+
+  Heuristik:  A05 Fehlervermeidung
+
+  Wie reproduzierbar:  https://forms.fh-joanneum.at/jobs/bewerbung/?kn=714-21-001
+                       was ins Formular eintragen, ein Feld mit * frei lassen
+                       Enter drücken

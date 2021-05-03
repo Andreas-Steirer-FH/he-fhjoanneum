@@ -1,0 +1,436 @@
+Evaluator: Andreas Steirer (Persona: Sophie Logathus, BSc)
+Alter: 21 (Persona: 29)
+Geschlecht: männlich (Persona: weiblich)
+Gerät: iMac (Retina 5K, 27-inch, 2017)
+Betriebssystem und Version: macOS Big Sur - 11.2.3
+Webbrowser und Version: Safari - 14.0.3 
+Ad Blocker: AdBlock Plus und Safari Tracking Prevention
+Internetverbindung Typ: A1 Glasfaserpower 80
+Internetverbindung Download Geschwindigkeit: 80 Mbps (realistisch: ~76 Mbps)
+Bildschirmgröße: 27"
+Bildschirmauflösung: 5120 × 2880
+Browserauflösung: 5120 × 2880
+Datum der Evaluierung: 2021-04-27
+Uhrzeit der Evaluierung: 08:00-10:45
+
+
+Positive Beobachtungen
+----------------------
+
+o Klare Strukturierung der Webseite
+
+  Die meisten Ansichten / Screens der Webseite sind schön strukturiert und
+  werden zentriert dargestellt.
+
+  Screenshots: p1-AS-clear-structure-1.png und p2-AS-clear-structure-2.png
+
+  Wie reproduzierbar - Beispiele:
+  Startseite oder Startseite → Navbar: Hochschule → Events
+
+
+o Verwendung von URIs ("mailto", "tel")
+
+  Die Webseite baut an den meisten Stellen Hyperlinks mit der Verwendung von URIs ein, 
+  welche ein wenig Copy-Paste und Navigationsarbeit ersparen.
+
+  Video clips: p3-AS-URI-usage-1.mp4 und p4-AS-URI-usage-2.mp4
+
+  Wie reproduzierbar - Beispiel:
+  Startseite → Alles zum Aufnahmeverfahren 2021 → bewerbung@fh-joanneum.at
+
+
+o "Nach oben"-Feature in allen Footers
+
+  Sehr nette Funktionalität bei größeren Webseiten mit viel Text.
+  Unnötiges Scrolling wird verhindert.
+
+  Video clip: p5-AS-feature-to-top.mp4
+
+  Wie reproduzierbar - Beispiele:
+  Startseite → Alles zum Aufnahmeverfahren 2021 → Footer
+  Generell im universellen Footer enthalten
+
+
+o Selektionsindikatoren / Hover-Effekte bei verschiedenen Komponenten
+
+  Sehr viele Komponenten sind mit netten Zoom- und Hover-Animationen ausgestattet.
+
+  Video clips: p6-AS-hover-effect-selection-1.mp4,
+               p9-AS-hover-effect-selection-2.mp4 und
+               p10-AS-hover-effect-selection-3.mp4
+
+  Wie reproduzierbar - Beispiele:
+  Startseite → Alles zum Aufnahmeverfahren 2021
+  Generell im universellen Footer enthalten
+  etc.
+
+
+o Studienfinder: Status der Form wird anschaulich präsentiert
+
+  Während des Ausfüllens des Studienfinders repräsentieren Punkte den Status
+  der jeweiligen Dropdown-Felder. Zusätzlich können eventuelle Folgefehler reduziert werden,
+  da die bereits (vor-)ausgefüllten Werte in den Dropdowns noch einmal per Selektion 
+  bestätigt werden müssen (obwohl sie vielleicht schon den gewünschten Wert enthalten).
+
+  Video clip: p7-AS-study-finder-form-status.mp4
+
+  Wie reproduzierbar - Beispiel:
+  Startseite → Studienfinder
+
+
+o Studienfinder: Loading-Spinner wird eingeblendet
+
+  Ist man mit dem Ausfüllen der Form fertig und klickt den Submit-Link,
+  kommt es während der Generierung der Empfehlung zu einem anschaulichen Ladeprozess.
+
+  Video clip: p8-AS-study-finder-loading-spinner.mp4
+
+  Wie reproduzierbar - Beispiel:
+  Startseite → Studienfinder -> Submit-Link ("Zeige mir meine Studienmöglichkeiten")
+
+
+o Shadow-Effekt bei Kontakt- / Chatbot-Element
+
+  Um Kontakt mit dem FH-Joanneum Chatbot / echtem Benutzer aufzunehmen, 
+  wurde ein Overlay in die
+  rechte untere Ecke platziert. Dieses wird mit einer Elevation und einem Shadow-Effekt
+  versehen, sodass man klar sieht, dass das Element auf einer anderen Ebene liegt.
+
+  Screenshot: p11-shadow-effect-chatbot.png
+
+  Wie reproduzierbar - Beispiele:
+  Startseite → rechte untere Ecke
+  Generell auf fast jeder Ansicht vertreten
+
+
+o Multiple Quick-Navigationen sind möglich / vorhanden
+
+  Dem User steht es frei wie schnell er in welche Unterkapitel navigieren möchte.
+  Abkürzungen und längere Wege sind vorhanden.
+
+  Screenshots: p12-AS-multiple-quick-navigation-1.png und p13-AS-multiple-quick-navigation-2.png
+
+  Wie reproduzierbar - Beispiel:
+  Startseite → Studium → Masterstudiengänge → IT Architecture → Klick: "Mehr zum Studium"
+
+
+o Große aufklappbare Navigation zu allen Unterpunkten
+
+  Die klassische Navigationsleiste bietet die Möglichkeit alle wichtigen Ansichten zu
+  erreichen. Dabei ist das Menu / Pop-up klar strukturiert und zusätzlich nicht zu überladen.
+  Visuell ansprechbar sind das teilweise Ausblenden der Webseite und der
+  bekannte Hover-Effekt bei den einzelnen Schaltflächen.
+
+  Video clip: p14-AS-big-navigation-area.mp4
+
+  Wie reproduzierbar - Beispiel:
+  Startseite → NavBar bedienen
+
+o Multiselektion zeigt aktuelle Auswahl an
+
+  Werden Objekte aus einem Multiselect-Dropdown ausgewählt, 
+  wird der Status aktualisiert und eine doppelte Auswahl vermieden.
+
+  Video clip: p15-AS-multiselect-dropdown-state.mp4
+
+  Wie reproduzierbar - Beispiel:
+  Startseite → FH|IN (Newsletter)
+
+
+Probleme
+--------
+
+o Platzausnützung mancher Ansichten / Screens
+
+  Gewisse Ansichten der Webseite nützen den vorhandenen Platz nicht gut aus, 
+  sodass größere Frei- bzw. Weißflächen entstehen.
+
+  Screenshot: n1-AS-white-areas.png
+  Video clip: n12-AS-white-areas-2.mp4
+
+  Heuristik: A08 - Ästhetik und minimales Design
+
+  Wie reproduzierbar:  
+  Startseite → Alles zum Aufnahmeverfahren 2021
+  Startseite → Studium → Masterstudiengänge → IT Architecture 
+  → FH-Prof. Dipl.-Ing. Werner Fritz → Domänenspezifische Fallstudie
+
+
+o Teilweise dysfunktionale Breadcrumbs
+
+  Manche Breadcrumbs zeigen zwar einen aktuellen Status an, 
+  die Pfade oder die Rückwärtsnavigationen
+  stimmen beziehungsweise funktionieren nicht immer.
+  Zusätzlich navigieren manche Breadcrumbs, welche den aktuellen Status /
+  Pfad anzeigen zur selben / derzeitigen Seite oder zeigen den aktuellen Status 
+  gar nicht erst an.
+
+  Video clips: n2-AS-dysfunctional-breadcrumbs-1.mp4, 
+               n10-AS-dysfunctional-breadcrumbs-2.mp4,
+               n13-AS-dysfunctional-breadcrumbs-3.mp4 und
+               n14-AS-dysfunctional-breadcrumbs-4.mp4
+
+  Heuristik: A03 - Umkehrbare Aktionen und
+  eigentlich auch A01 - Rückmeldung des Systemzustandes
+
+  Wie reproduzierbar:  
+  Startseite → Alles zum Aufnahmeverfahren 2021 → Breadcrumb-Einträge benützen
+  Startseite → Studium → Masterstudiengänge → IT Architecture
+  Startseite → Studium → Masterstudiengänge → IT Architecture 
+  → FH-Prof. Dipl.-Ing. Werner Fritz → Domänenspezifische Fallstudie
+
+
+o Tipp- / Infoboxen (und andere Stellen): Inkonsistenter Hyperlink-Hover-Effekt
+
+  Hyperlinks werden an den meisten Stellen, während man mit dem Mauszeiger
+  darüber ist, in einer anderen Farbe markiert. In keiner der Tipp- / Infoboxen 
+  ist dieses Verhalten zu beobachten (was das Ganze schon fast wieder
+  konsistent machen würde). Auch an anderen Stellen ist auf diese 
+  Funktionalität vergessen worden (beispielsweise bei den Tags).
+
+  Video clips: n3-AS-info-box-hyperlinks-1.mp4 und n4-AS-info-box-hyperlinks-2.mp4
+
+  Heuristik: A04 - Konsistenz
+
+  Wie reproduzierbar - Beispiele:  
+  Startseite → Alles zum Aufnahmeverfahren 2021 → Links in der gelben Tippbox
+  Startseite → Alles zum Aufnahmeverfahren 2021 → Tags
+
+
+o Teilweise Vermischung von Englisch und Deutsch
+
+  An manchen Stellen kommt es zur Vermischung von Deutschen und Englischen Begriffen.
+
+  Video clips: n5-AS-mixing-english-german-1.mp4 und n6-AS-mixing-english-german-2.mp4
+
+  Heuristik: A04 - Konsistenz
+
+  Wie reproduzierbar - Beispiele:  
+  Startseite → Alles zum Aufnahmeverfahren 2021 → Oberhalb der Tags am Seitenende
+  Startseite → Alles zum Aufnahmeverfahren 2021 → Breadcrumb: Allgemein → Artikeleinträge
+
+
+o Komisches Hover- bzw. Hyperlink-Verhalten
+
+  Manche Hyperlinks mit Hover-Effekt werden an Stellen ausgelöst, wo kein Text bzw. Link ist 
+  (Container beinhaltet wahrscheinlich onClick-Handler).
+  Manche Icons bzw. Elemente lösen gar keinen Hover-Effekt aus 
+  (obwohl ähnliche Elemente das Feature bereits implementiert hatten).
+
+  Video clips: n7-AS-hover-hyperlink-behavior-1.mp4 und n11-AS-hover-hyperlink-behavior-2.mp4
+
+  Heuristik: A04 - Konsistenz (da eine Standardfunktion verletzt wird), 
+  aber auch A01 - Rückmeldung des Systemzustandes (Falsche Statusmeldung).
+
+  Wie reproduzierbar - Beispiele:  
+  Startseite → Alles zum Aufnahmeverfahren 2021 → Breadcrumb: Allgemein → Artikeleinträge
+  Startseite → Studium → Masterstudiengänge → IT Architecture → Der Studiengang auf FACEBOOK
+
+
+o Etwas schlechte Farbauswahl in Footer
+
+  Im generellen Footer der Webseite ist der Text (ohne Links) in hellen Grauton gehalten. 
+  Die Hintergrundfarbe ist ein dunkler Grauton. Auf manchen Monitoren,
+  Helligkeitseinstellungen oder mit gewissen Farbeinstellungen könnte die Schrift etwas 
+  schwerer lesbar sein.
+
+  Screenshot: n8-AS-bad-footer-color.png
+
+  Heuristik: A06 - Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  
+  Startseite → Footer
+  Generell im universellen Footer enthalten
+
+
+o Studienfinder: Verbuggte Schaltfläche zum Editieren von Parametern
+
+  Im Vollbildmodus (ziemlich sicher unabhängig von der Auflösung) wird das Editier-Overlay
+  nicht richtig gerendert. Skaliert man die Webseite auf die Mobile-Ansicht herunter, ist das
+  richtige Verhalten erkennbar.
+
+  Video clip: n9.mp4
+
+  Heuristik: A06 - Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  
+  Startseite → Studienfinder → Submit-Link ("Zeige mir meine Studienmöglichkeiten") 
+  → Graue Box unter Navbar
+
+
+o Clickable-Indicator / Symbol wird nicht angezeigt
+
+  Zwar wird ein Hover-Effekt generiert, aber der explizite Klick-Cursor wurde für
+  diese Komponente nicht implementiert. Bei anderen vergleichbaren Elementen ist dies der
+  Fall.
+
+  Video clip: n15-AS-hover-no-pointer-indicator.mp4
+
+  Heuristik: A04 - Konsistenz und A06 - Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  
+  Startseite → (Standort) Graz
+
+
+o Tipps: Verwendete Farbe repräsentiert visuell das falsche konzeptionelle Modell
+
+  Allgemein ist die gelbe Farbe als Farbe für Warnungen bekannt (Warnungen != Fehler).
+  Dies könnte unter Umständen zu anfänglicher Verwirrung sorgen. 
+  Diese Designentscheidung zieht sich jedoch durch die gesamte Webseite - Konsistent.
+
+  Screenshot: n16-AS-color-wrong-conceptional-model.png
+
+  Heuristik: A02 - Sprache des Benutzers verwenden und A06 - Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  
+  Startseite → (Standort) Graz → Tipp-Box
+
+
+o Quick-Navigation Dialog / Pop-up ist nicht auf eigener Ebene
+
+  Das Pop-up überlappt mit dem darunterliegenden Inhalt.
+
+  Screenshot: n17-AS-pop-up-wrong-layer.png
+
+  Heuristik: A08 - Ästhetik und minimales Design und theoretisch auch A05 - Fehlervermeidung
+
+  Wie reproduzierbar:  
+  Startseite → Studium → Masterstudiengänge → IT Architecture → Klick: Bewerbungsfrist
+
+
+o Globale Stichwortsuche: Funktioniert erst ab 3 Zeichen
+
+  Wörter, welche beispielsweise aus nur zwei Zeichen bestehen, 
+  werden anscheinend von der Suchfunktion ausgeschlossen.
+
+  Video clip: n18-AS-global-search-character-count.mp4
+
+  Heuristik: A05 - Fehlervermeidung
+
+  Wie reproduzierbar:  
+  Startseite → Klick auf Lupe bzw. "Suche"
+  Die Suchfunktion ist jedoch auf jeder Unterseite verfügbar.
+
+
+o Globale Stichwortsuche: Ergebnisse bzw. Ergebniskategorien Schriftfarbe
+
+  Für die Farbe der Schrift wurde ein helles Grau gewählt. Dies symbolisiert normalerweise
+  einen deaktivierten Zustand und missachtet daher gängige Designpatterns.
+
+  Screenshot: n19-AS-global-search-result-category-coloring.png
+
+  Heuristik: A02 - Sprache des Benutzers verwenden und A06 - Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  
+  Startseite → Klick auf Lupe bzw. "Suche" → Suchbegriff eingeben
+  Die Suchfunktion ist jedoch auf jeder Unterseite verfügbar.
+
+
+o Globale Stichwortsuche: Gefundene Ergebnisse sind nicht alle erreichbar / ersichtlich
+
+  Wenn eine Vielzahl an Suchergebnissen gefunden wurde, gibt es keine Möglichkeit alle
+  anzusehen. Es gibt keine Page-Navigation (1, 2, 3, ...). 
+  Scrollen führt auch nicht zu einem Nachlade-Verhalten.
+
+  Video clip: n20-AS-global-search-results-unreachable.mp4
+
+  Heuristik: A06 - Erkennen ist besser als Erinnern und A07 - Flexibilität und Effizienz
+
+  Wie reproduzierbar:  
+  Startseite → Klick auf Lupe bzw. "Suche" → Suchbegriff eingeben
+  Die Suchfunktion ist jedoch auf jeder Unterseite verfügbar.
+
+
+o Navigationsleiste und Breadcrumbs: Art der Darstellung
+
+  Durch die gewählte Farbe (weiß) der Navigationsleiste und den nicht fixierten Breadcrumbs
+  ist es teilweise etwas schwer festzustellen, an welcher Stelle die Navigation aufhört
+  und die restliche Seite beginnt.
+
+  Video clip: n21-AS-navbar-breadcrumbs-display.mp4
+
+  Heuristik: A08 - Ästhetik und minimales Design
+
+  Wie reproduzierbar - Beispiele:  
+  Startseite
+  Startseite → Studium → Masterstudiengänge
+  Aber auch auf anderen Seiten nachvollziehbar.
+
+
+o Newsletter: Anrede lässt unlimitierte Zeichenanzahl zu
+
+  Füllt man die Anrede aus und gibt beliebig viele und lange Zeichenketten ein, 
+  kommt es zu dem Bug, das der Text über die Vorschau hinaus geht.
+  Zusätzlich ist auch zu beobachten, dass die Eingabe bei Leerzeichen teilweise funktioniert.
+
+  Video clip: n22-AS-newsletter-character-count.mp4
+
+  Heuristik: A05 - Fehlervermeidung und A08 - Ästhetik und minimales Design
+
+  Wie reproduzierbar - Beispiel:  
+  Startseite → FH|IN (Newsletter)
+
+
+o Newsletter: Submit-Button ist ein flaches Element
+
+  Anders als bei den vergleichbaren Elementen der Webseite, wird hier zwar ein Button verwendet,
+  dieser ist jedoch weder hervorgehoben (Elevation), noch wurde dieser mit einem Hover-Effekt versehen.
+
+  Screenshot: n23-AS-submit-button-flat.png
+
+  Heuristik: A04 - Konsistenz und A08 - Ästhetik und minimales Design
+
+  Wie reproduzierbar - Beispiel:  
+  Startseite → FH|IN (Newsletter)
+
+
+o Newsletter: Keine Bestätigung bei Anmeldung
+
+  Klickt man den "Anmelden"-Button wird man sofort auf die Startseite geworfen.
+  Eine Meldung in Form einer Snackbar oder eine sonstige Erfolgsmeldung gibt es nicht.
+
+  Screenshot: n24-AS-submit-confirmation.mp4
+
+  Heuristik: A04 - Konsistenz und A08 - Ästhetik und minimales Design
+
+  Wie reproduzierbar - Beispiel:  
+  Startseite → FH|IN (Newsletter)
+
+
+o Online-Bewerbung: Sehr veraltetes Oberflächen-Design
+
+  Das Design der Webseite wirkt uralt. 
+  Die ganze Webseite ist linksseitig angeordnet und
+  bemüht sich nicht um etwaige Element- oder Textformatierungen.
+  Ein Responsive-Design ist überhaupt nicht vorhanden und der Screen ist generell schlecht optimiert.
+  Es wirkt so, als ob eine Ansicht eines veralteten, 
+  internen Verwaltungstools / ERP-System auf öffentlich geschalten wurde. 
+
+  Screenshot: n25-AS-old-layout-design.mp4
+
+  Heuristik: A08 - Ästhetik und minimales Design
+
+  Wie reproduzierbar:  
+  Studium → Online-Bewerbung → Masterstudium
+
+
+o Online-Bewerbung: Formular-Validierung und Fehlermeldungen
+
+  1. Es ist keine Instant-Validierung gegeben (wenigstens wird die Form nicht geleert)
+  2. Die Fehlermeldung "Bitte geben Sie die Unterrichtsjahre als Zahl an!" ergibt bei diesem Feld keinen Sinn.
+  3. Es ist möglich bei eigentlich rein numerischen Feldern (SVNR, PLZ) Zeichenketten einzugeben. 
+     Diese werden nach der Validierung nicht einmal als falsch gewertet.
+  4. Ähnliches ist bei Datumseingaben zu beobachten
+  5. Das Wording der Fehlermeldungen ist nicht konsistent
+  6. Mandatory-Felder (zwingend auszufüllen) sind verstreut angeordnet
+     und damit schwerer wahrzunehmen (File-Upload)
+
+  Screenshot: n26-form-validation-errors.mp4
+
+  Heuristik: A04 - Konsistenz und A05 - Fehlervermeidung
+
+  Wie reproduzierbar:  
+  Studium → Online-Bewerbung → Masterstudium → Ausfüllen und Speichern klicken
+
+
+

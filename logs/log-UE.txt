@@ -1,0 +1,199 @@
+Evaluator: Ulrike Ezika (Persona: Felix Tiefenbacher)
+Alter: XX (Persona: 51)
+Geschlecht: weiblich (Persona: männlich)
+Gerät: Samsung Galaxy Tab A7
+Betriebssystem und Version: Android 10.0
+Webbrowser und Version: Google Chrome latest version
+Ad Blocker: keiner
+Internetverbindung Typ: WLAN
+Internetverbindung Download Geschwindigkeit: 144 mbps
+Bildschirmgröße: 10″
+Bildschirmauflösung: 1920 x 1200
+Browserauflösung: 1920 x 1200
+Datum der Evaluierung: 2021-04-26
+Uhrzeit der Evaluierung: 16:00-16:45
+
+
+Positive Beobachtungen
+----------------------
+
+o Gute Fotoauswahl zu Thematik
+
+  Passende Selektion von professionellen Bildern zu den Themen.
+
+  Screenshot(s):  	p09-UE-GoodPic1.jpg
+			p10-UE-GoodPic2.jpg
+			p11-UE-GoodPic3.jpg
+
+  Wie reproduzierbar:  fh-joanneum.at/hochschule/departments/management/
+
+
+o Kontaktanzeigen und Funktionalität
+
+  Auf jeder Seite gut zu finden, Klick auf Adresse führt zu GoogleMaps,
+  Klick auf Telefonnummer -> kann auf Smartphone übertragen werden
+
+  Screenshot(s):  	p07-UE-Kontakt1.jpg
+			p08-UE-Kontakt.jpg
+
+  Wie reproduzierbar:  fh-joanneum.at/hochschule/karriere/bei-uns-bewerben/
+
+
+o Stellenanzeigen
+
+  Übersichtliche Darstellung mit guter Suchfunktion
+
+  Screenshot(s):  	p06-UE_Stellenanzeigen.jpg
+
+  Wie reproduzierbar:  fh-joanneum.at/hochschule/karriere/
+
+
+o Menüführung
+
+ Balken mit Selektionsverlauf wird angezeigt,
+ User kann sich orientieren
+
+  Screenshot(s):  	p05-UE-Menüführung.jpg
+
+  Wie reproduzierbar:   Auswahl -> Forschung -> Institute -> Bank- und Versicherungswirtschaft
+
+
+o Stelle deine Frage
+
+  Chat Funtion rechts unten wird angeboten
+
+  Screenshot(s):  	p01-UE-StellFrage.jpg 
+			p02-UE-InfoChat.jpg 
+
+  Wie reproduzierbar:  mouseover -> rechte untere Bildschirmecke
+
+
+o Chat-Info
+
+  Macht User immer wieder aufmerksam, dass auch der Chat genutzt werden kann
+
+  Screenshot(s):  	p04-UE-Suche2.jpg
+
+  Wie reproduzierbar:  mouseover -> rechte untere Bildschirmecke
+
+
+o Menüführung Untermenü
+
+  Menüführung ist übersichtlich
+
+  Screenshot(s):  	p03-UE-Menü-Forschung.jpgp
+
+  Wie reproduzierbar:  Klick auf Forschung im Hauptmenü
+
+
+o Funktion 'Suche'
+
+  Gute Funktionsweise, mit Vorschlägen
+
+  Video clip:  		p-UE-FunktionSuche.mp4
+
+  Wie reproduzierbar:  fh-joanneum.at/hochschule/departments/management/
+
+
+
+Probleme
+--------
+
+o Bug-Link falsch hinterlegt
+
+  Falsche Menüführung durch falsch hinterlegten Link
+ 
+  Video clip:     	n-UE-LinkFalsch.mp4
+
+  Heuristik:  Konsistenz
+
+  Wie reproduzierbar:  fh-joanneum.at/forschung/forschungsprofil/
+
+
+o Bewerbung
+
+  Die Selektion von Online-Bewerbung, verrät noch nicht, dass man sich hier 
+  nur für ein Studium Bewerben kann. etwas irreführend
+
+  Screenshot(s):   	n03-UE-online-Bewerbung.jpg
+			n01-UE_StudiumOnline-Bewerbung.jpg
+
+  Heuristik:  Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  Selektion 'Forschung' -> 'Online-Bewerbung'
+
+
+o Änderung der Sprache
+
+  Änderung der Sprache auf Englisch, zurück wechseln auf Deutsch über Browser (Google Chrome),
+  dannach wird zwar Deutsch angezeigt, aber die Menüanzeige bleibt auf 'EN'
+	-> browserbezogenes problem und auch Einsttellungssache
+
+  Video clip:     	n-UE-sprachen.mp4
+
+  Heuristik:  Umkehrbare Aktionen
+
+  Wie reproduzierbar:  rechts oben im Menü Auswahl " DE / EN "
+
+
+o Dezentrale Bilder
+
+  Dezentrale Bilder bei jeder Startseite
+
+  Screenshot(s):   	n04-UE-InstBankuV_Startseite.jpg 
+			n02-UE-BankuV_ZentralesBild.jpg	
+
+  Heuristik:  Ästetik und minimales Design
+
+  Wie reproduzierbar:  Z.B Selektion Institut -> Bank- und Versicherungswirtschaft
+
+
+o Karriere vs. Online-Bewerbung
+
+  Karriere etwas schwer zu finden
+
+  Screenshot(s):   	n05-UE-Hochschule_karierre.jpg
+
+  Heuristik:  Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  Selektion 'Hochschule'
+
+
+o Startseite Karriere
+
+  Unklar ob sich hier Jobangebote auch befinden, erst durch hinunterscrollen ersichtlich
+
+  Screenshot(s):   	n06-UE-Karriere.jpg
+
+  Heuristik:  Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  Selektion 'Hochschule' -> 'Karierre'
+
+
+o Menüpkt unnötig?
+
+  Selektion Forschung -> Institute, Ist hier die Anzeige des Menüpkts 'Department' wirlich notwendig?
+
+  Screenshot(s):   	n07-UE-Institute.jpg
+
+  Heuristik:  Ästetik und minimales Design
+
+  Wie reproduzierbar:  Selektion Forschung -> Institute
+
+
+o Versteckter Newsletter
+
+  Anmeldung zum Newsletter, versteckt Hinter rotem Logo 'FH | IN' rechts oben im Hauptmenü
+
+  Screenshot(s):   	
+			n03-UE-online-Bewerbung.jpg
+			n01-UE_StudiumOnline-Bewerbung.jpg
+
+  Heuristik:  Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  n08-UE-Newsletter.PNG
+
+
+
+
+

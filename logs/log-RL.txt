@@ -1,0 +1,242 @@
+Evaluator: Robert Lehner (Persona: Amalia Schönmair)
+Alter: 20 (Persona: 18)
+Geschlecht: männlich (Persona: weiblich)
+Gerät: ASUS Notebook ZenBook Pro UX550GE-E6287T, blau (90NB0HW3-M01500)
+Betriebssystem und Version: Windows 10 Home 20H2 19042.928
+Webbrowser: Opera 75.0.3969.218
+Ad Blocker: Integrierter Werbeblocker (Werbung und Tracker blockiert)
+Internetverbindung Typ: Integriertes VPN (Opera)
+Internetverbindung Download Geschwindigkeit: 8ms PING, 59.44 Mbps DOWNLOAD
+Bildschirmgröße: AOC 27B1H 27"
+Bildschirmauflösung:1920x1080
+Browserauflösung: 1865x970
+Datum der Evaluierung: 2021-04-26
+Uhrzeit der Evaluierung: 18:56:37-19:23:02
+
+
+Positive Beobachtungen
+----------------------
+o Studienfinder
+
+  Der Berater welcher Studium zu einem passt kann schnell gefunden werden (<10sek)
+
+  Screenshot(s):	p-rl-studienfinder.png
+  Video clip:		-
+
+  Wie reproduzierbar:  Startseite -> Studienfinder
+
+o Studienfinder Feedback
+
+  Rückmeldung: Farbe ändert sich, wenn eine Auswahl getroffen wurde.
+
+  Screenshot(s):  	p-rl-studienfinder-feedback.png
+  Video clip:		p-rl-studienfinder-feedback-auswertungszeit.mp4
+
+  Wie reproduzierbar:  Startseite -> Studienfinder -> ausfüllen
+
+o Studienfinder Auswertungszeit
+
+  In der Auswertungszeit entsteht eine Animation
+
+  Screenshot(s):	p-rl-studienfinder-auswertungszeit.png
+  Video clip:		p-rl-studienfinder-feedback-auswertungszeit.mp4
+
+  Wie reproduzierbar:  Startseite -> Studienfinder -> ausfüllen/absenden
+
+o Designelemente in konsistenter Farbe
+
+  Die Farbe der Studienrichtung wird konsistent verwendet.
+
+  Screenshot(s):	p-rl-farbe1.png; p-rl-farbe2.png
+  Video clip:		-
+
+  Wie reproduzierbar:  /gesundheits-und-krankenpflege/bachelor/
+
+o Button
+
+  Der Download Button zeigt übersichtlich, was man downloadet, von welchem Dateityp und welche Größe
+
+  Screenshot(s):	p-rl-button.png
+  Video clip:		-
+
+  Wie reproduzierbar:  /hochschule/departments/gesundheitsstudien/
+
+o Hervorhebung
+
+  Tipps und Hinweise sind farblich hervorgehoben
+
+  Screenshot(s):	p-rl-hervorhebung.png
+  Video clip:		-
+
+  Wie reproduzierbar:  /hochschule/departments/gesundheitsstudien/
+
+o Spende Fehlermeldung Mail
+
+  Es wird die Sprache des Benutzers verwendet und genau erklärt, was man machen muss
+
+  Screenshot(s):	p-rl-fehlermeldung-mail.png
+  Video clip:		-
+
+  Wie reproduzierbar:  /hochschule/services/spenden/
+
+o Breadcrumbs
+
+  Durch die Breadcrumbs kann man seine Aktion einfach umkehren, falls man mal einen Link aus Versehen angeklickt hat. Außerdem weiß man immer wo man sich gerade befindet (Beispiel Spenden)
+
+  Screenshot(s):	p-rl-breadcrumbs.png
+  Video clip:		-
+
+  Wie reproduzierbar:  /hochschule/services/spenden/
+
+o Event Sortierung
+
+  Gute Sortierungsmöglichkeit und farbliche Zuordnung von den Events.
+
+  Screenshot(s):	p-rl-event-sortierung.png
+  Video clip:		-
+
+  Wie reproduzierbar:  /hochschule/events/
+
+o Newsletter Multiselect
+
+  Es wird eine intuitive Multiselektion angeboten
+
+  Screenshot(s):	p-rl-newsletter-multiselect.png
+  Video clip:		-
+
+  Wie reproduzierbar:  /fhin-registrierung/
+
+
+
+Probleme
+--------
+
+o Chat Fenster
+
+  Während des gesamten Websitebesuchs stört eine wechselnde Meldung des Chat Fensters.
+  Wenn man es öffnet ist man sich nicht sicher ob es ein Bot oder ein echter Mitarbeiter ist.
+
+  Screenshot(s):	-
+  Video clip:		n-rl-chat-fenster.mp4
+
+  Wie reproduzierbar:  Auf jeder Seite
+
+o Pfeile
+
+  Bei den einzelnen Seiten sind zum navigieren rechts und links Pfeile. Diese sind jedoch nicht in der
+  aktuellen Navigation, sondern in der übergeordneten
+
+  Screenshot(s):	n-rl-pfeile.png
+  Video clip:		-
+
+  Wie reproduzierbar:  /gesundheits-und-krankenpflege/bachelor/im-studium/das-studium/
+
+o Akkordeon
+
+  Gleich aussehende Akkordeon Elemente lassen sich nur zum teil öffnen
+
+  Screenshot(s):	-
+  Video clip:		n-rl-akkordeon.mp4
+
+  Wie reproduzierbar:  /gesundheits-und-krankenpflege/bachelor/im-studium/das-studium/
+
+o Studiengangslogo
+
+  Das Studiengangslogo ist plötzlich völlig deplaziert auf der Seite
+
+  Screenshot(s):	n-rl-studiengangslogo.png
+  Video clip:		-
+
+  Wie reproduzierbar:  /hochschule/departments/gesundheitsstudien/
+
+o CSS Ladezeit
+
+  CSS wird zu langsame geladen - daher passen die Bildgrößen nicht
+
+  Screenshot(s):	-
+  Video clip:		n-rl-css.mp4
+
+  Wie reproduzierbar:  Startseite
+
+o Suche
+
+  Die Suche ist nur wortgetreu möglich
+
+  Screenshot(s):	-
+  Video clip:		n-rl-suche.mp4
+
+  Wie reproduzierbar:  Beliebige Seite - Suchen "Krankenschwester" - "Krankenpflege"
+
+o Spende Anrede
+
+  Beim Spendenformular sind Checkboxen statt Radioboxen und sind daher beide auswählbar
+
+  Screenshot(s):	n-rl-anrede.png
+  Video clip:		-
+
+  Wie reproduzierbar:  /hochschule/services/spenden/
+
+o Spende Mail
+
+  Die Mailadressen (als Beispiel für alle Forumlarfelder) werden nicht live validiert
+
+  Screenshot(s):	n-rl-mail.png
+  Video clip:		-
+
+  Wie reproduzierbar:  /hochschule/services/spenden/
+
+o Spende Jahr
+
+  Für die Geburtsjahreseingabe wird eine Dropdownliste verwendet (und dann auch noch mit dem Jahr 2022)
+
+  Screenshot(s):	n-rl-jahr.png
+  Video clip:		-
+
+  Wie reproduzierbar:  /hochschule/services/spenden/
+
+o Newsletter finden
+
+  Den Newsletter findet man nur, wenn man weiß, dass er FH|IN heißt (wobei sich das mehr nach Intranet anhört)
+
+  Screenshot(s):	-
+  Video clip:		n-rl-newsletter.mp4
+
+  Wie reproduzierbar:  /fhin-registrierung/
+
+o Newsletter Anmeldung Mail
+
+  Formularfelder werden nicht live validiert und wenn Daten im Mail Feld eingegeben wurden weiß man nicht mehr welcher Feld das war.
+
+  Screenshot(s):	n-rl-newsletter-mail.png
+  Video clip:		n-rl-newsletter.mp4
+
+  Wie reproduzierbar:  /fhin-registrierung/
+
+o Newsletter Captcha Bedingungen
+
+  Die Bedingungen des Drittanbieters sind nicht clickbar, weil davor der Chat Bot ist. (Auch nicht mit erheblichen Anstrengungen)
+
+  Screenshot(s):	n-rl-newsletter-captcha.png
+  Video clip:		n-rl-newsletter.mp4
+
+  Wie reproduzierbar:  /fhin-registrierung/
+
+o Newsletter Anmeldung
+
+  Wenn man das Formular absendet wird man einfach auf die Startseite weitergeleitet ohne eine Nachricht
+
+  Screenshot(s):	-
+  Video clip:		n-rl-newsletter.mp4
+
+  Wie reproduzierbar:  /fhin-registrierung/
+
+o Newsletter DSGVO
+
+  Es wird kein Mail für ein Double Opt In Verfahren gesendet - Die Anmeldung ist somit nicht gültig. Leider im Video nicht wirklich zeigbar.
+
+  Screenshot(s):	-
+  Video clip:		n-rl-newsletter.mp4
+
+  Wie reproduzierbar:  /fhin-registrierung/
+
+
